@@ -9,6 +9,11 @@ namespace csPractice2
             string message = "Hello World!";
 
             Console.WriteLine(message);
+
+            string a = "hello";
+            string b = "world";
+            Console.WriteLine(a);
+            Console.WriteLine(b);
         }
     }
 }
